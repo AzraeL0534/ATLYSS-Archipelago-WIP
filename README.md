@@ -17,7 +17,7 @@ Download BepInEx 5.4.23.4 and extract it to your ATLYSS game directory. Run the 
 Place the DLL files from the `Plugin` folder into `ATLYSS/BepInEx/plugins/`. If installing via Thunderstore, the mod will be installed automatically.
 
 ### Step 5: Connect In-Game
-Launch ATLYSS and press F5 to connect to your Archipelago server. Enter your server address, slot name, and password if required.
+Enter your server address, slot name, and password if required. Launch ATLYSS and press F5 to connect to your Archipelago server. 
 
 ## Configuration
 
@@ -36,7 +36,3 @@ This project was made possible with help from:
 - AtlyssModdingCentral Discord server
 - Mickemoose - Technical assistance and code contributions  
 - Catman - Guidance and project support
-
-## License
-
-MIT License - See LICENSE file for details.
