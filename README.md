@@ -36,3 +36,4 @@ This project was made possible with help from:
 - AtlyssModdingCentral Discord server
 - Mickemoose - Technical assistance and code contributions  
 - Catman - Guidance and project support
+- Nichologeam - Coding Partner (major help with this project)
