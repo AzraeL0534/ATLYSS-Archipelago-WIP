@@ -1,6 +1,6 @@
 # ATLYSS Archipelago
 
-Archipelago randomizer implementation for ATLYSS. Enables multiworld randomizer gameplay with 137 randomizable items, quest and level-based location checks, and configurable progression options.
+Archipelago randomizer implementation for ATLYSS. Enables multiworld randomizer gameplay with 137+ randomizable items, quest and level-based location checks, and configurable progression options.
 
 ## Installation
 
